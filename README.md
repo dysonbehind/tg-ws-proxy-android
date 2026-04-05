@@ -25,10 +25,10 @@
 ---
 
 <!-- Место для твоих скриншотов -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/твой-скриншот-1" width="300" />
-  <img src="https://github.com/user-attachments/assets/твой-скриншот-2" width="300" />
-</p>
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/946bd6ce-e55c-49af-bd44-d6dd2b20a0c6" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/71420e6f-fdb5-4734-994f-8a0a5429bcc0" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/4c337f45-3336-44f4-aab0-f4b98faf7d4b" />
+
 
 ---
 
