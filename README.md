@@ -26,8 +26,7 @@
 
 <!-- Место для твоих скриншотов -->
 <div align="center">
-  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/3eb91930-fddd-4673-987a-5fd306ae6f96" width="32%" />
-  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/74450c50-3482-448a-8a45-817643266d7f" width="32%" />
+  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/3eb91930-fddd-4673-987a-5fd306ae6f96" width="32%" /><img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/74450c50-3482-448a-8a45-817643266d7f" width="32%" />
 </div>
 
 
