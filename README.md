@@ -1,4 +1,5 @@
 # 🥑 avocado
+<img width="1365" height="768" alt="1" src="https://github.com/user-attachments/assets/055f8671-c0be-4f63-8f90-c0743aa495c6" />
 
 **Мобильная реализация MTProto WebSocket прокси. Аппаратно-ускоренный клиент для обхода ограничений Telegram на Android.**
 
