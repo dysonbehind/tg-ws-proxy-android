@@ -1,6 +1,13 @@
 # 🥑 avocado
 <img width="1365" height="768" alt="1" src="https://github.com/user-attachments/assets/055f8671-c0be-4f63-8f90-c0743aa495c6" />
-
+> [!TIP]
+>
+> ### 🎉 Поддержать меня
+>
+> **USDT (TRC20)**: `soon`  
+> **BTC**: `soon`  
+> **ETH**: `soon`  
+> **Другие монеты**: `  https://pressf.com/dys0n/donate`  
 **Мобильная реализация MTProto WebSocket прокси. Аппаратно-ускоренный клиент для обхода ограничений Telegram на Android.**
 
 Ускорение Telegram, обход блокировок и полная фоновая автономность.
