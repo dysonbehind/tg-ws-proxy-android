@@ -35,10 +35,13 @@
 
 ---
 
-<!-- Место для твоих скриншотов -->
-<div align="center">
-  <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/3eb91930-fddd-4673-987a-5fd306ae6f96" width="32%" /><img width="576" height="1000" alt="image" src="https://github.com/user-attachments/assets/74450c50-3482-448a-8a45-817643266d7f" width="32%" />
-</div>
+<img width="576" height="1280" alt="photo_2026-04-17_22-31-51" src="https://github.com/user-attachments/assets/00579490-8bcd-44d7-8fb2-10ddcb4ed871" />
+<img width="576" height="1280" alt="photo_2026-04-17_22-31-53" src="https://github.com/user-attachments/assets/49831a6e-70a8-4bf8-b805-66a539aa18c7" />
+<img width="576" height="1280" alt="photo_2026-04-17_22-31-54" src="https://github.com/user-attachments/assets/d41a5b91-9ee0-4ca7-9f09-8e5b04d2c7d7" />
+
+
+
+
 
 
 ---
